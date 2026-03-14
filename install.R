@@ -7,4 +7,4 @@ install.packages(c(
 ), repos = "https://cran.r-project.org")
 
 # Register the Jupyter kernel so it appears in Binder's Launcher
-IRkernel::installspec(name = "ir-binder", displayname = "R (Binder)")
+#IRkernel::installspec(name = "ir-binder", displayname = "R (Binder)")
