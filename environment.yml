@@ -18,6 +18,9 @@ dependencies:
   - r-httr
   - r-devtools
   - r-remotes
+  - r-airGRteaching
+  - r-airGRdatasets
+  - r-airGR
   # If you need geospatial or system-libs-backed packages, add:
   # - r-sf
   # - r-terra
