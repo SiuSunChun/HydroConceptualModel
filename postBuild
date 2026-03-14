@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+set -euxo pipefail
+R -q -e "IRkernel::installspec(name = 'ir-binder', displayname = 'R (Binder)')"
