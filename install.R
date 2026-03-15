@@ -1,6 +1,7 @@
 # Install required packages from CRAN
 install.packages(c(
   "IRkernel",
+  "sp",
   "airGR",
   "airGRteaching",
   "airGRdatasets"
